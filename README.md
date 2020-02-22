@@ -1,5 +1,5 @@
 # Global terrorism
-# visualization project
+# live demo at: http://skhanna.me/global_terrorism_visualization/
 
 
 ## For mac/ubuntu users:
